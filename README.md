@@ -39,3 +39,9 @@ npm run dev
 
 ## Design inspiration
 The layout draws from modern editorial systems (Notion-like organization, Webflow-style media cards, and CMS-style workflows) for a clean, premium visual hierarchy.
+
+### Frontend
+```
+cd frontend
+python3 -m http.server 5050
+```
